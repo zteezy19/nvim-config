@@ -8,3 +8,4 @@ foo.*
 data
 README.md
 images/
+.DS_Store
